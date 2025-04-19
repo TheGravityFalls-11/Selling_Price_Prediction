@@ -39,6 +39,8 @@ This indicates that the model explains approximately 60% of the variance in the 
 ## Visualization
 The scatter plot below shows the comparison between actual and predicted prices. The red dashed line represents a perfect prediction (where predicted prices equal actual prices).
 
+![Graph](https://github.com/user-attachments/assets/348c5f07-320d-4146-bd92-e569c6ed4ab6)
+
 ---
 
 ## 📌 Conclusion
